@@ -9,12 +9,15 @@ With my internship, I am planning to explore and expand my knowledge for `Swift`
 💎:
 Other than iOS, you can find my other projects as well! For instance, check out the [Devstore e-commerce application](https://github.com/berketuranlioglu/devstore_project) coded by me and my friends with Flutter!
 
-## Languages
+## 👨‍💻: Languages
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
+## 💾: Databases
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>&ensp;
 
 ## :mega: Contact me
 You can reach me anytime.
 
-- <img src="https://www.linkedin.com/favicon.ico" width="20"> [LinkedIn](https://www.linkedin.com/in/berke-turanlioglu/)&ensp;&ensp;
-<img src="https://instagram.com/favicon.ico" width="20"> [Instagram](https://www.instagram.com/berketuranlioglu/)&ensp;&ensp;
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20"> [Gmail](mailto:berketuranlioglu@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berketuranlioglu/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berketuranlioglu/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berketuranlioglu@gmail.com)

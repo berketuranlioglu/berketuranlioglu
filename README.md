@@ -1,7 +1,6 @@
 ## Hi there, I'm Berke 👋
 
-🔭:
-I am an undergraduate student in Computer Science at Sabanci University. Besides, I am also balancing an internship on iOS Development.
+🔭: New grad from Sabancı University, upcoming iOS Application Developer.
 
 ## 👨‍💻: Languages
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>

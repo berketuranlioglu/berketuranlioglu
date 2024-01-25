@@ -1,6 +1,6 @@
 ## Hi there, I'm Berke 👋
 
-🔭: New grad from Sabancı University, upcoming iOS Application Developer.
+🔭: iOS Developer with interests to other areas like web or low level coding for games.
 
 ## 👨‍💻: Languages
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>&ensp;<img height=50 src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>&ensp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
